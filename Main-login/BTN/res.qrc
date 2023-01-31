@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="BackgroundSignUp">
+    <file>backgroundLogIn.png</file>
+  </qresource>
+</RCC>
